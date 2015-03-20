@@ -9,6 +9,6 @@
 
  An examples of a report I generated can be seen linked below. You can view these using SAP's free [ Crystal Reports Viewer ](http://www.sap.com/solutions/sme/business-intelligence-crystal-solutions/sap-crystal-reports-viewer/index.epx) software. 
 
-[ Sample Report ](chart.rpt)
+[ Sample Report ](Top 5 Canadian Customers.rpt)
 
 This is a chart and bar graph report of the top 5 Canadian customers for Xtreme Cycles. The data used is from the sample [Xtreme.mdb ](https://smpdl.sap-ag.de/~sapidp/012002523100005852352008E/cr_xi_xtreme_rep_smpl_en.zip) MS Access database that you can download from SAP's website. 
